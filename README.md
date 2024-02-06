@@ -7,7 +7,7 @@
 
 - 🎓📚💻 *Computer Engineering student at Sanjivani College of Engineering*
 
-- 👩🏻‍💻 All of my projects are available at [GitHub](https://github.com/NaikwadeVaishnavi)
+- 👩🏻‍💻 All of my projects are available at [GitHub](https://github.com/VasudhaK-242)
 <!--
 - 👨‍💻 Must visit my  [Portfolio](portfolio)
 -->
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[(https://www.linkedin.com/in/vasudha-kulkarni-1a7a8b207)](https://www.linkedin.com/in/vasudha-kulkarni-1a7a8b207/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishnavi-naikwade-223769211/" height="30" width="40" /></a>
-<a href="[(https://www.hackerrank.com/profile/vasu280103)](https://www.hackerrank.com/profile/vasu280103)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vaishnav_n" height="30" width="40" /></a>
+<a href="[(https://www.linkedin.com/in/vasudha-kulkarni-1a7a8b207)](https://www.linkedin.com/in/vasudha-kulkarni-1a7a8b207/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/vasudha-kulkarni-1a7a8b207/" height="30" width="40" /></a>
+<a href="[(https://www.hackerrank.com/profile/vasu280103)](https://www.hackerrank.com/profile/vasu280103)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://https://www.hackerrank.com/profile/vasu280103" height="30" width="40" /></a>
 </p>
 
 <br><h2 align="left">✨Languages and Tools✨</h2><br>
