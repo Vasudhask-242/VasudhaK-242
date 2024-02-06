@@ -1,7 +1,6 @@
-# VasudhaK-242
 <h1 align="center">Hi there! 👋 I am Vasudha Kulkarni</h1>
 <h3 align="center">⭐Passionate Data Science Enthusiast⭐</h3><img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KulkarniVasudha&label=Profile%20views&color=0e75b6&style=flat" alt="KulkarniVasudha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VasudhaK-242&label=Profile%20views&color=0e75b6&style=flat" alt="VasudhaK-242" /> </p>
 <br>
 - 🤖 I’m currently working on project *Chatbot for Municipal Council*
 
@@ -17,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[(https://www.linkedin.com/in/vasudha-kulkarni-1a7a8b207)](https://www.linkedin.com/in/vasudha-kulkarni-1a7a8b207/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/vasudha-kulkarni-1a7a8b207/" height="30" width="40" /></a>
-<a href="[(https://www.hackerrank.com/profile/vasu280103)](https://www.hackerrank.com/profile/vasu280103)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://https://www.hackerrank.com/profile/vasu280103" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vasudha-kulkarni-1a7a8b207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vasudha-kulkarni-1a7a8b207/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/vasu280103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vasu280103" height="30" width="40" /></a>
 </p>
 
 <br><h2 align="left">✨Languages and Tools✨</h2><br>
